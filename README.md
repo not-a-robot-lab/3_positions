@@ -1,3 +1,5 @@
+THIS MODULE IS IN CONSTRUCTION, MANY SMALL THINGS NEED TO BE FIXED!
+
 # 3 Positions
 Voltage Controlled 3 position switch 7HP Eurorack Module.
 
